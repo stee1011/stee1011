@@ -23,6 +23,9 @@ Here are some of the projects I'm working on:
 
 ## 🎓 Certifications:
 - [Credly Badge: Data Science Certification](https://credly.com/badges/f81ae855-0320-4fb4-a31a-d61ef560f39d/public_url)
+- ![My Logo](google-ai-essentials.png)
+- 
+
 
 ## 💼 Skills:
 - **Programming Languages**: Python, JavaScript, SQL, C++
