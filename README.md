@@ -25,6 +25,7 @@ Here are some of the projects I'm working on:
 - [Credly Badge: Google AI Certification](https://credly.com/badges/f81ae855-0320-4fb4-a31a-d61ef560f39d/public_url)
 - ![My Logo](google-ai-essentials.png)
 - [Credly Badge: Cyber-security Certification](https://www.credly.com/badges/9aeae290-2be7-4f92-9a57-444c9bd0a963/public_url)
+- [Credly Badge: Cyber-security Certification](https://www.credly.com/badges/7d152e7c-1a04-4617-a9be-8bc98c64dd20/public_url)
 - ![My Logo](introduction-to-cybersecurity.png)
 - 
 - 
