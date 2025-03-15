@@ -31,5 +31,7 @@
 
 ### ⚡ “Hack the system, master the machine.” 
 
+![cyber](https://academy.hackthebox.com/achievement/badge/ad5ec8a4-f1a6-11ee-b18d-bea50ffe6cb4)
+
 ![cyber](google-ai-essentials.png)
 
