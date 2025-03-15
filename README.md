@@ -23,7 +23,7 @@
 ---
 
 ## 🔗 Connect With Me:
-- 🚀 [LinkedIn](www.linkedin.com/in/stephen-njoroge-83b56b277)
+- 🚀 [LinkedIn](https://www.linkedin.com/in/stephen-njoroge-83b56b277)
 - 🔥 [Twitter/X](https://twitter.com/stee1011)
 
 
