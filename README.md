@@ -5,11 +5,11 @@
 ---
 
 ## 🔥 About Me:
-- 🛠 **Cybersecurity & Exploit Dev**
+
 - 🤖 **Machine Learning & AI Security**
 - 🏗 **Full-Stack Dev: React | Django | MLOps**
-- 🔬 **Reverse Engineering & Memory Manipulation**
-- 🎸 **Guitarist | Greek Mythology Enthusiast**
+- 🔬 **Reverse Engineering**
+- 🎸 **Ai driven cyberthreats enthusiast**
 
 ---
 
@@ -23,11 +23,13 @@
 ---
 
 ## 🔗 Connect With Me:
-- 🚀 [LinkedIn](https://linkedin.com/in/stee1011)
+- 🚀 [LinkedIn](www.linkedin.com/in/stephen-njoroge-83b56b277)
 - 🔥 [Twitter/X](https://twitter.com/stee1011)
-- 💻 [Portfolio](https://stee1011.dev)
+
 
 ---
 
 ### ⚡ “Hack the system, master the machine.” 
+
+![cyber]()
 
