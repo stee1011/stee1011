@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Stee1011! 🚀
+# 👋 Hello, I'm Stee1011! 
 
 🌌 Welcome to my GitHub profile! I specialize in cybersecurity, data science, and exploit development. Passionate about hacking, deep learning, and pushing the boundaries of what's possible in tech.
 
