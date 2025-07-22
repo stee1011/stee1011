@@ -2,6 +2,10 @@
 
 ###
 
+<h2 align="left">Here are my skills!</h2>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -50,8 +54,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=stee1011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=stee1011&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=stee1011&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stee1011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=stee1011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stee1011&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -61,14 +67,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stee1011/stee1011/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stee1011/stee1011/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stee1011&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stee1011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=stee1011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stee1011&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
