@@ -1,7 +1,14 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-party
-thanks for coming
-###
+
+<div align="center">
+
+# ![party](https://media.giphy.com/media/10FwycrnAkpshW/source.gif)
+
+# ![thanks for coming](https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif)
+</div>
+
+<!--Shoo, what are you still doing here, go learn how to become a hacker https://www.youtube.com/watch?v=w8YKa5sIClQ -->
+
 
 <h2 align="left">Here are my skills!</h2>
 
