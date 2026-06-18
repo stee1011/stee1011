@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-
+party
+thanks for coming
 ###
 
 <h2 align="left">Here are my skills!</h2>
